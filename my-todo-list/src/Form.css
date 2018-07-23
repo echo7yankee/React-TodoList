@@ -1,0 +1,23 @@
+.form {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.input {
+    width: 90%;
+    border: none;
+    margin-top: 20px;
+    height: 40px;
+    border-radius: 3px;
+    font-size: 18px;
+    text-indent: 10px;
+    color: #333;
+    outline: none;
+    background-color: rgba(255, 255, 255, .70);
+}
+
+.input::placeholder {
+    font-size: 18px;
+    color: #333;
+}

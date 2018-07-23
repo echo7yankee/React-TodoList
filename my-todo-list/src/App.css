@@ -1,0 +1,11 @@
+.App {
+    display: flex;
+    width: 450px;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    min-height: 70vh;
+    background-color: rgba(9, 141, 250, .80);
+    margin: 50px auto;
+    border-radius: 5px;
+}
